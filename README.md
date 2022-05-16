@@ -4,7 +4,7 @@
 
 #### 管理员界面
 
-![image](https://github.com/13197422420/choosecourse/tree/master/img/image-20220516190432839.png)
+![img](https://github.com/13197422420/choosecourse/tree/master/img/image-20220516190432839.png)
 
 ##### 功能：
 
